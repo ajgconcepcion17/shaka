@@ -1,0 +1,35 @@
+*{
+     box-sizing: border-box;
+     /*add the other browsers here too*/
+   }
+
+   html, body{
+      padding: 0;
+      margin: 0;
+   }
+
+.navbar {
+	background-color: #ebbe7a !important;
+}
+
+.navbar-nav.ml-auto li a{
+font-family: 'Alegreya', serif;
+color: #000000;	
+}
+
+.carousel .slide {
+	width: 100%;
+}
+
+
+.img-banner {
+	width: 100%;}
+
+.container.catalogue-text {
+	width: 100%;
+	border-style: solid;
+	border-color: #000000
+}
+
+
+
